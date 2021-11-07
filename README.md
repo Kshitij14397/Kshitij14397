@@ -60,6 +60,7 @@
 <a href = "https://www.linkedin.com/in/kshitij14397/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.facebook.com/kshitij.pandey.52206/"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
 <a href = "https://www.instagram.com/kshitij5280/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+<a href = "https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBnpzJzTpPrcWlcCvrFgFLGWfmFtqhsHKjZtVjJSDMhJjhfMkQLxMtwMLKgLFhbfXWvQmpl"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png"/></a>
 </p>
 
 ## ❤ Views and Followers
