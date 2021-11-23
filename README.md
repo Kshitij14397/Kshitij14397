@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently working on:
 
-  1). Wheather App (My 2nd Node JS Project)
+  1). Weather App (My 2nd Node JS Project)
   
   2). Credit Card Fraud Detection using Hybrid Model with [Shakti](https://github.com/Shakti02) & [Piyush Sachan](https://github.com/Piyush7398)
 - 🌱 I’m currently learning Node JS.
