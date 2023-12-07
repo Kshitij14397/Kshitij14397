@@ -1,4 +1,4 @@
-<a href="#"><img height="400px" width="100%" src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE5NTMxMjEsIm5iZiI6MTcwMTk1MjgyMSwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjA3VDEyNDAyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlkNTAxZTVlMDg3ZDIwZGM2NWY0NDE0MDUwMTdkOTY5MWQ3ZTI0OTA4OWRhZTUxM2VjOGNlMjExN2NkMTk2MjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.nr_40ss3k1HtI6FaHAn5sBM8RWHIDGrp4UeQPFpsmhU"/></a>
+
 <h1 align="center">Hi <img src="https://media.tenor.com/z2xJqhCpneIAAAAC/wave-hand.gif" width="30px">, I'm Kshitij Pandey</h1>
 
 
@@ -19,15 +19,19 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
+    <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> </a> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v2.png"/> </a>    
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.png" width="50px" height="50px"/>
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-5-1175140.png" width="50px" height="50px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" width="50px" height="50px"/>
     <a href="https://www.javatpoint.com/c-programming-language-tutorial" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>  
     <a href="https://www.programiz.com/cpp-programming" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>    
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width="45px" height="45px"/>
     </p>
 
 ## Connect with me:
@@ -37,6 +41,8 @@
 <a href = "https://www.facebook.com/kshitij.pandey.52206/"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
 <a href = "https://www.instagram.com/kshitij5280/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
 <a href = "https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSBnpzJzTpPrcWlcCvrFgFLGWfmFtqhsHKjZtVjJSDMhJjhfMkQLxMtwMLKgLFhbfXWvQmpl"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png"/></a>
+<a href = "https://leetcode.com/kshitij14397/"><img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" width="50px" height="50px"/></a>
+<a href = "https://auth.geeksforgeeks.org/user/kshitij_pandey"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="50px" height="50px"/></a>
 </p>
 
 ## ❤ Views and Followers
