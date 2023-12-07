@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://media.tenor.com/z2xJqhCpneIAAAAC/wave-hand.gif" width="30px">, I'm Kshitij Pandey</h1>
 
 
-<h3 align="center"><img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width = "30px" height="30px"/> A passionate Backend Developer from India</h3>
+<h3 align="center"><img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width = "25px" height="25px"/> A passionate Backend Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif"/>
 
