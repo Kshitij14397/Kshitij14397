@@ -1,7 +1,8 @@
 <a href="#"><img height="400px" width="100%" src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE5NTMxMjEsIm5iZiI6MTcwMTk1MjgyMSwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjA3VDEyNDAyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTlkNTAxZTVlMDg3ZDIwZGM2NWY0NDE0MDUwMTdkOTY5MWQ3ZTI0OTA4OWRhZTUxM2VjOGNlMjExN2NkMTk2MjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.nr_40ss3k1HtI6FaHAn5sBM8RWHIDGrp4UeQPFpsmhU"/></a>
 <h1 align="center">Hi <img src="https://media.tenor.com/z2xJqhCpneIAAAAC/wave-hand.gif" width="30px">, I'm Kshitij Pandey</h1>
 
-<h3 align="center">A passionate Backend Developer from India</h3>
+
+<h3 align="center"><img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width = "30px" height="30px"/> A passionate Backend Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif"/>
 
