@@ -2,14 +2,14 @@
 <h1 align="center">Hi <img src="https://media.tenor.com/z2xJqhCpneIAAAAC/wave-hand.gif" width="30px">, I'm Kshitij Pandey</h1>
 
 
-<h3 align="center"><img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width = "25px" height="25px"/> A passionate Backend Developer from India</h3>
+<h3 align="center"><img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width = "25px" height="25px"/> A passionate MERN Developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif"/>
 
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working on: <b>Modelling Data and Advanced Mongoose</b>
-- 🌱 I’m currently learning: <b>Node.js, Express, MongoDB & More: The Complete Bootcamp 2024</b>
+- 🔭 I’m currently working on: <b>Episode 2: Igniting our App</b>
+- 🌱 I’m currently learning: <b>React</b>
 - 💬 Ask me about: Feel free to ask anything.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kshitij14397/)
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1BRzc4FoQgQ3Y9GnBi8wb3QtMFcO-yCx3/view?usp=sharing)
