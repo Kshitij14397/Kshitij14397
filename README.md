@@ -8,7 +8,7 @@
 
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working on: <b>Episode 2: Igniting our App</b>
+- 🔭 I’m currently working on: <b>Episode 7: Finding the Path</b>
 - 🌱 I’m currently learning: <b>React</b>
 - 💬 Ask me about: Feel free to ask anything.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kshitij14397/)
