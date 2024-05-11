@@ -13,7 +13,7 @@
 - 💬 Ask me about: Feel free to ask anything.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kshitij14397/)
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1BRzc4FoQgQ3Y9GnBi8wb3QtMFcO-yCx3/view?usp=sharing)
-- 📝 Current Goal: Preparing for interviews and get placed.
+- 📝 Current Goal: Complete NetflixGPT and Youtube Projects.
 - ⚡ Fun fact: I always love being funny, make anyone smile and mimicking bollywood dialogues. 
 
 ## 🚀 Languages and Tools:
