@@ -8,7 +8,7 @@
 
 
 ## 🙋‍♂️ About Me
-- 🔭 I will be working on: <b>Youtube Clone Project</b>
+- 🔭 I am currently working on: <b>Youtube Clone Project</b>
 - 🌱 I’m currently learning: <b>React</b>
 - 💬 Ask me about: Feel free to ask anything.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kshitij14397/)
